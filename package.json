@@ -6,7 +6,9 @@
   "dependencies": {
     "express": "^4.12.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mongoose": "^4.0.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
